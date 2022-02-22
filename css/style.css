@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+.body {
+    background: #eaeaea;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo {
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   font-size: 28px;
+   color: #1B1B1B;
+}
+
+h2 {
+text-align: center;
+color: #1B1B1B;
+font-size: 20px;
+}
+h3 {
+    text-align: center;
+
+}
+
+.figura {
+
+}
+
+.imagem {
+    width: 690px;
+    height: 350px;
+    margin: 0 29%;
+}
+
+#legenda {
+    text-align: end;
+    color: #8F8F8F;
+}
+
+article {
+    background-color: #FFFFFF;
+}
+
+footer {
+    color: #8F8F8F;
+    font-size: 12px;
+}
+
+li {
+    line-height: 26px;
+    padding: 0 30px;
+    text-align: start;
+}
